@@ -1,18 +1,7 @@
 # Hey, I'm Akshat 👋  
 
 🚀 Computer Science @ PES University  
-💡 I build things that mix **ML, Systems, and a bit of chaos**  
-☕ Fueled by coffee, Kafka streams, and late-night debugging  
-
----
-
-### 🌱 What I’m up to
-- Training ML models to detect weird stuff in networks  
-- Building full-stack apps (React + FastAPI + a sprinkle of LangChain magic)  
-- Experimenting with Federated Learning + Differential Privacy  
-- Chasing the sweet spot between **theory and deployment**  
-
----
+💡 I build things that mix **ML, Backend, and a bit of chaos**   
 
 ### 🛠️ My Toolbox  
 
@@ -21,7 +10,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 #### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -33,25 +21,8 @@
 #### Systems & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
----
-
-### 📈 Currently Grinding On
-- SDE prep 📚 (DSA + low-level system design)  
-- Side projects that could accidentally become startups  
-- Writing README files that are fancier than the project itself  
-
----
-
-### ✨ Fun Facts
-- I believe half of debugging is just *staring aggressively at the screen*  
-- I sometimes build ML models just to avoid writing if-else statements  
-- My code runs best on **trial & error-driven development**  
-
----
 
 ### 📫 Let’s Connect
 - [LinkedIn](#)  
